@@ -1,0 +1,9 @@
+Just some cli script I've put together to help me manage my iTunes library.
+
+
+ScriptBridge and macports doesn't work as expected, nor did osa. Settled for appscript, although it isn't macruby compatible yet.
+
+TODO
+
+- Clean up project.
+- Some encoding error is causing names to be misread and comparrisson to fail. Work on that.
